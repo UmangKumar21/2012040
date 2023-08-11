@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: -webkit-linear-gradient(to right, #fee140, #fa709a);
+  background: linear-gradient(to right, #fee140, #fa709a); 
+
+}
+
+
+.table{
+  
+    
+    align-items: center;
+    width: 100%;
+  max-width: 1000px;
+  margin:0 auto;
+  
+
+}
+
